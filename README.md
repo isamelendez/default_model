@@ -1,16 +1,16 @@
 # default_model
 
 
-### install requirements 
+### Install requirements 
 
 pip install pickle-mixin
 
 pip install pandas
 
 
-### run model
+### Run model
 python default_model.py
 
 
-### predictions
+### Get predictions
 predictions should be on y_pred.csv
